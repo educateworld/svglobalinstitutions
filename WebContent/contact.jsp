@@ -1,20 +1,22 @@
 <%@ include file="header.jsp" %>
      <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Contact</h2>
+    
+      <h2>Contact US</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
     <!--=========== BEGIN CONTACT SECTION ================-->
-    <section id="contact">
-      <div class="container">
+    <section id="contact"> 
+      <div class="container" style="background-color:
+  #263854;" >
        <div class="row">
-          <div class="col-lg-12 col-md-12"> 
+       <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
-              <h2 class="title_two">We are SV Global Institutions</h2>
+              <h2 class="title_two"><font color="#ffbf00">We are SV Global Institutions</font></h2>
               <span></span> 
-              <p>Learning is a lifelong process that extends beyond the classroom. <br>
- So, why restrict yourself to traditional settings?<br></div>
+              <p><b><font color="#009999">Learning is a lifelong process that extends beyond the classroom. <br>
+ So, why restrict yourself to traditional settings?</font></b><br></div>
           </div>
        </div>
        <div class="row">
@@ -31,22 +33,22 @@
          </div>
          <div class="col-lg-4 col-md-4 col-sm-4">
            <div class="contact_address wow fadeInRight">
-             <h3>Head Office</h3>
+             <h3> <font color="#ffbf00">Head Office</font></h3>
              <div class="address_group">
-          <p><strong>  H.No: #401/c, West Block, 4th Floor,</strong></p>
+         <font color="#d6441b"> <p><strong>  H.No: #401/c, West Block, 4th Floor,</strong></p>
        <p><strong> Archana Arcade, Beside Srikara Hospitals</strong></p>
        <p><strong>SECUNDERABAD-500025</strong> </p>
                <p>Phone: +91 7799990965,+91 7799990964,+91 8297370000</p>
-               <p>Email:svglobalinstitutions99@gmail.com</p>
+               <p>Email:svglobalinstitutions99@gmail.com</p></font>
              </div>
-              <h3>Branch Office</h3>
+              <h3><font color="#ffbf00">Branch Office</font></h3>
               <div class="address_group">
-          <p><strong>  H.No: #101,102, SV Building, </strong></p>
+         <font color="#d6441b"> <p><strong>  H.No: #101,201, SV Building, </strong></p>
        <p><strong> OPP BUSSTAND,PATANCHERU, SANGAREDDY</strong></p>
        <p><strong>HYDERABAD-502319</strong> </p>
                <p>Phone: +91 7799990965,+91 7799990964,+91 8297370000</p>
                <p>Email:info@svglobalinstitutions.com</p>
-                <p>svacademy99@gmail.com</p>
+                <p>svacademy99@gmail.com</p></font>
              </div>
              <div class="address_group">
               <ul class="footer_social">

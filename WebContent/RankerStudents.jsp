@@ -1,9 +1,10 @@
 <%@ include file="header.jsp" %>
  <!--=========== BEGIN COURSE BANNER SECTION ================-->
-  
+
     <section id="imgBanner">
-    
-    <h2 style="color:#e6e600"> <center>Our Top Rankers</center></h2>
+    <body style="background-color:
+  #ffb366;">
+    <h2 style="color:#663300"  > <center>Our Top Rankers</center></h2>
     
      <!-- - <h4 style="color:#0000ff">Top Rankers </h4>-->
     </section>

@@ -9,18 +9,18 @@
             <div id="slides">
             <marquee style="color:#ff0040; margin-top:10px; font-size:16px;" scrollamount="3" scrolldelay="2" direction="left" onmouseover="this.stop()" onmouseout="this.start()"><a target="_blank" href="http://www.vidyasamachar.com/">
 <img src="http://vidyasamachar.com/wp-content/uploads/2016/04/li.gif">
-&nbsp;<font color="red">Participate NEET 2017 Mock Tests Conducted by WisdomOverseas </font> </a>&nbsp;<a target="_blank" href="http://www.vidyasamachar.com/">
+&nbsp;<font color="red">Click Here to Write ECET 2017 Mock Tests Conducted by WisdomOverseas </font> </a>&nbsp;<a target="_blank" href="http://www.vidyasamachar.com/">
 <img src="http://vidyasamachar.com/wp-content/uploads/2016/04/li.gif">
 &nbsp;<font color="#ff00ff"> Participate in Talent Test and Get Fee Discounts &amp; Free Education </font></a></marquee>
  <div align="right" id="navbar" class="navbar-collapse collapse">
               <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-                <li class="active"><a href="index.jsp"><b><font color=" red">ECET</font></b></a></li>
-                <li><a href="RankerStudents.jsp" ><b><font color="#99004d">DiplomaProjects</font></b></a></li>
+                <li class="active"><a href="ecet.jsp"><b><font color=" red">ECET</font></b></a></li>
+                <li><a href="DiplomaProjects.jsp" ><b><font color="#99004d">DiplomaProjects</font></b></a></li>
                 <li><a href="course-archive.jsp"><b><font color="#000099">Industrial Training</font></b></a> 
 							</li>
                 <li><a href="scholarship.jsp"><b><font color="#009999">Admissions</font></b></a></li>
                <li><a href="home-tutions.jsp"><b><font color="#ff4000">Networking Training</font></b></a></li>
-                <li><a href="contact.jsp"><b><font color="	#009926">Gallery</font></b></a></li>
+                <li><a href="gallery1.jsp"><b><font color="	#009926">Gallery</font></b></a></li>
                </ul></div>
               <ul class="slides-container">                          
                 <li>
@@ -95,8 +95,10 @@ function carousel() {
     <!--=========== END SLIDER SECTION ================-->
 
     <!--=========== BEGIN ABOUT US SECTION ================-->
-    <section id="aboutUs">
-      <div class="container">
+    <section id="aboutUs" style="background-color:
+  #ffbf80">
+      <div class="container" style="background-color:
+  #94b8b8">
         <div class="row">
         <!-- Start about us area -->
         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -133,7 +135,7 @@ function carousel() {
                         </a>
                       </div>
                       <div class="media-body">
-                       <a href="course-archive-ecet.jsp" style="color:#33ccff">GET THE COACHING FOR
+                       <a href="course-archive-ecet.jsp" style="color:#ff00ff">GET THE COACHING FOR
                                     ECET New Batches are going to start Hurry up!!limited seating Only</a>
                        <span class="feed_date">13.02.18</span>
                       </div>
@@ -147,7 +149,7 @@ function carousel() {
                         </a>
                       </div>
                       <div class="media-body">
-                       <a href="course-archive-polycet.jsp" style="color:#77b300">GET THE COACHING FOR
+                       <a href="course-archive-polycet.jsp" style="color:#ff4000">GET THE COACHING FOR
                                     POLYCET Hurry up!!limited seating Only</a>
                        <span class="feed_date">13.02.18</span>
                       </div>
@@ -286,7 +288,7 @@ function carousel() {
     <!--=========== END ABOUT US SECTION ================--> 
 
     <!--=========== BEGIN WHY US SECTION ================-->
-    <section id="whyUs">
+    <section id="whyUs" >
       <!-- Start why us top -->
       <div class="row">        
         <div class="col-lg-12 col-sm-12">
@@ -717,7 +719,7 @@ function carousel() {
                     <div class="stsTestimonial_msgbox">
                       <p>I am K.Ganesh I am Belongs to ECE branch I got state 7th rank in ECET thanks to SVGlobalInstituions sir & Rajesh sir</p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/sv/class3.JPG" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>K.Ganesh</h3>                      
                       <span>ECE branch</span>
@@ -732,7 +734,7 @@ function carousel() {
                     <div class="stsTestimonial_msgbox">
                       <p>I am P.Sindu.I am CSE Student. I got state 9th rank in ECET Special thanks to SVGlobalInstituions.</p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/sv/class3.JPG" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>P.Sindu</h3>                      
                       <span>CSE Branch</span>
@@ -747,7 +749,7 @@ function carousel() {
                     <div class="stsTestimonial_msgbox">
                       <p>I am S.Thirupathi I am Belongs to EEE branch I got state 12th rank in ECET Special thanks to SVGlobalInstituions </p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/sv/class3.JPG" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>S.Thirupathi</h3>                      
                       <span>EEE branch</span>

@@ -10,16 +10,16 @@
     ================================================== -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>SVGlobalInstitutions:Home</title>
+<title>SV Global Institutions: Home </title>
 
-<meta name="description" content="SVGlobal Institutions, We are giving coaching for ECET and POLYCET students for competitive exams.">
-<meta name="keywords" content="SVGlobal Institutions,Ecet Coaching,Polyset,Backlogs,
-CCNA,Computers,Diploma,subjets,Neet,c,java,physics,maths, chemistry, ece,cse">
 
 <!-- Mobile Specific Metas
     ================================================== -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<title>SV Global Institutions: ECET |POLYCET </title>
+<meta name="description" content="Learning is a lifelong process that extends beyond the classroom. 
+ So, why restrict yourself to traditional settings?">
+ <meta name="keywords" content="svglobal,sv,ECET,ecet,polycet,svglobalinstitutions"/>
 <!-- Favicon -->
 <link rel="shortcut icon" type="image/icon" href="img/wpf-favicon.png" />
 

@@ -35,6 +35,29 @@ License URI: http://www.gnu.org/licenses/gpl.html
 /* BASIC TYPOGRAPHY */
 /*--------------------*/
 
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+
+}
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next {
+    background-color: #4CAF50;
+    color: white;
+}
 body,html{
   overflow-x:hidden;
 }
